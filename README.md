@@ -16,7 +16,7 @@
 |----------|-------------|-------------|
 | [![SmartBuy](https://github-readme-stats.vercel.app/api/pin/?username=JoseDev9706&repo=smartbuy2)](https://github.com/JoseDev9706/smartbuy2) | Aplicación movil para gestion de compras de forma inteligente | ![Dart](https://img.shields.io/badge/-Dart-blue) ![Flutter](https://img.shields.io/badge/-Flutter-blue) |
 | [![Agunsa](https://github-readme-stats.vercel.app/api/pin/?username=JoseDev9706&repo=agunsa)](https://github.com/JoseDev9706/agunsa) | Aplicación Movil para gestion y registro de contenedores de carga | ![Dart](https://img.shields.io/badge/-Dart-blue) ![PHP](https://img.shields.io/badge/-PHP-blue)  |
-| [![Jumper Volley](https://github-readme-stats.vercel.app/api/pin/?username=JoseDev9706&repo=volleyball-club-manager)](https://github.com/JoseDev9706/volleyball-club-manager) | Aplicacion Web para administracion y gestion de un club deportivo de voleyball| ![React](https://img.shields.io/badge/-React-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+| [![Jumper Volley](https://github-readme-stats.vercel.app/api/pin/?username=JoseDev9706&repo=volleyball-club-manager)](https://github.com/JoseDev9706/volleyball-club-manager) | Aplicacion Web para administracion y gestion de un club deportivo de voleyball| ![React](https://img.shields.io/badge/-React-blue) ![TypeScript](https://img.shields.io/badge/-TypeScript-yellow)
 
 ## 📊 Estadísticas de GitHub
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=JoseDev9706&show_icons=true&theme=radical)
